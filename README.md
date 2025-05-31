@@ -1,6 +1,5 @@
----
 
-```markdown
+
 # Wrist Fracture Detection using Deep Learning – WristNet 🩺🤖
 
 ## 📘 Project Title
