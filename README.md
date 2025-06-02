@@ -1,6 +1,6 @@
 
 
-# Wrist Fracture Detection using Deep Learning – WristNet 🩺🤖 :) :)
+# Wrist Fracture Detection using Deep Learning – WristNet 🩺🤖 :) 
 
 ## 📘 Project Title
 **Enhancing Wrist Fracture Detection in Wrist X-Ray Images Using Deep Learning Models**
